@@ -1,4 +1,4 @@
-package com.vlados.appgallerytest
+package com.vlados.releasetest
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.vlados.appgallerytest
+package com.vlados.releasetest
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.vlados.appgallerytest", appContext.packageName)
+        assertEquals("com.vlados.releasetest", appContext.packageName)
     }
 }
