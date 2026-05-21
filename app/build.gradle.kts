@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.vlados.releasetest"
+    namespace = "com.vlados.appgallerytest"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.vlados.releasetest"
+        applicationId = "com.vlados.appgallerytest"
         minSdk = 24
         targetSdk = 36
         versionCode = 3

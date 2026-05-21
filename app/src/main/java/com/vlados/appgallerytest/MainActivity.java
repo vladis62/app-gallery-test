@@ -1,4 +1,4 @@
-package com.vlados.releasetest;
+package com.vlados.appgallerytest;
 
 import android.app.Activity;
 import android.graphics.Color;

@@ -22,5 +22,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ReleaseTest"
+rootProject.name = "AppGalleryTest"
 include(":app")
